@@ -1,0 +1,11 @@
+.q1
+{
+    color:white;
+    background-color: darkgray;
+    height:50px;
+    width: 130px;
+}
+.q1:hover
+{
+    background-color: grey;
+}

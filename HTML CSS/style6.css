@@ -1,0 +1,13 @@
+.block
+{
+    width: 178px;
+}
+#q1
+{
+    color:white;
+    background-color: cadetblue;
+    height: 30px;
+    width: 78px;
+    border-color: cadetblue;
+    margin-left: 40%;
+}

@@ -1,0 +1,21 @@
+.simple
+{
+    background-color: lightblue;
+    height: 30px;
+    width: 320px;
+
+}
+.white
+{
+    background-color: gainsboro;
+    height: 30px;
+    width: 320px;
+    text-decoration-line:line-through;
+
+}
+.blue
+{
+    background-color:lightskyblue;
+    height: 30px;
+    width: 320px;
+}

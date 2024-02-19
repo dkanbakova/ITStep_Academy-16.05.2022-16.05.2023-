@@ -1,0 +1,66 @@
+.block
+{
+    height: 190px;
+    width: 650px;
+    background-color:lightpink;
+}
+.num
+{
+    background-color:rgba(212, 124, 153, 0.938);
+    width: 20px;
+    font-size: larger;
+    height: 20px;
+    margin-bottom: 20px;
+}
+.block1
+{
+    background-color:rgb(236, 156, 168);
+    height: 20px;
+    width:auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#apple
+{
+    background-color:rgb(224, 125, 140);
+    height: 20px;
+    width:50px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#orange
+{
+    background-color:rgb(224, 125, 140);
+    height: 20px;
+    width:65px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top:0%;
+}
+#pineapple
+{
+    background-color:rgb(224, 125, 140);
+    height: 20px;
+    width:65px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top:0%;
+}
+#pear
+{
+    background-color:rgb(224, 125, 140);
+    height: 20px;
+    width:65px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top:0%;
+}
+#cherry
+{
+    background-color:rgb(224, 125, 140);
+    height: 20px;
+    width:55px;
+    margin-left: 20px;
+}

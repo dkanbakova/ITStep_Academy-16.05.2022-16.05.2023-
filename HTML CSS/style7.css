@@ -1,0 +1,127 @@
+#block
+{
+    width: 700px;
+    height: 350px;
+}
+
+#head
+{
+    background-color: rgb(194, 204, 207);
+    color: black;
+    width: 700px;
+    height: 60px;
+}
+#center
+{
+    display: flex;
+    flex-direction: row;
+}
+#Main
+{
+    background-color: rgb(255, 241, 179);
+    color:black;
+    width: 450px;
+    height: 200px;
+    position: relative;
+    
+}
+#main
+{
+    background-color: rgb(255, 241, 179);
+    color: black;
+    width: 450px;
+    height: 80px;
+    display: inline-block;
+    
+}
+#q1
+{
+    background-color: rgb(255, 237, 132);
+    color: black;
+    width: 200px;
+    height: 40px;
+    display: inline-block;
+    position: absolute;
+    left: 15px;
+    top: 100px;
+}
+#q2
+{
+    background-color: rgb(255, 237, 132);
+    color: black;
+    width: 200px;
+    height: 40px;
+    display: inline-block;
+    position: absolute;
+    left:230px;
+    top:100px;
+}
+#q3
+{
+    background-color: rgb(255, 237, 132);
+    color: black;
+    width: 420px;
+    height: 40px;
+    position: absolute;
+    top: 150px;
+    left:15px;
+}
+#side
+{
+    background-color: rgb(195, 236, 195);
+    color:black;
+    height: 200px;
+    width: 250px;
+}
+#end
+{
+    background-color: rgb(194, 204, 207);
+    color: black;
+    width: 700px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+#section1
+{
+    background-color: white;
+    color: black;
+    width: 150px;
+    height: 40px;
+}
+#section2
+{
+    background-color: white;
+    color: black;
+    width: 150px;
+    height: 40px;
+}
+#section3
+{
+    background-color: white;
+    color: black;
+    width: 150px;
+    height: 40px;
+}
+#section4
+{
+    background-color: white;
+    color: black;
+    width: 150px;
+    height: 40px;
+}
+
+#w1
+{
+    margin-left: 40%;
+}
+#w2
+{
+    margin-left: 10%;
+}
+#w3
+{
+    margin-left: 30%;
+}
